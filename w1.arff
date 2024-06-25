@@ -1,0 +1,10 @@
+@relation Netflix
+@attribute Cid numeric 
+@attribute Spready numeric
+@attribute Mperday numeric
+@attribute usperday numeric
+@data
+1 120 14 3
+2 100 10 2
+3 140 12 4
+4 200 13 2
