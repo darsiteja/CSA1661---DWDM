@@ -1,0 +1,6 @@
+names=c("siri","mahi","likki")
+age=c(18,24,28)
+marks=c(89,95,98)
+df=data.frame(names,age,marks)
+mean(df $age)
+median(df $marks)
